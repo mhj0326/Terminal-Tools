@@ -15,3 +15,6 @@ Ctrl + b, w
 #한 다음 다시 되돌아오기
 Enter copy mode: Ctrl + b followed by [.
 Exit copy mode: Press q, Enter, or Esc.
+
+#Detach from the tmux session:
+Press Ctrl + b followed by d. 
