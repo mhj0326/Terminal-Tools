@@ -11,3 +11,7 @@ Ctrl + b, + p(이전 윈도우) 또는 n(다음 윈도우)
 
 #윈도우 목록 보기:
 Ctrl + b, w
+
+#한 다음 다시 되돌아오기
+Enter copy mode: Ctrl + b followed by [.
+Exit copy mode: Press q, Enter, or Esc.
